@@ -45,6 +45,40 @@
       "revId": "6fe8c49ed66fface141d3153d965a0c74d3e9806",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a890539_b9019a3b",
+        "filename": "rubygem-ffi.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 390
+      },
+      "writtenOn": "2017-08-08T14:00:24Z",
+      "side": 1,
+      "message": "same here",
+      "revId": "6fe8c49ed66fface141d3153d965a0c74d3e9806",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a890539_d9fe6638",
+        "filename": "rubygem-ffi.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 390
+      },
+      "writtenOn": "2017-08-08T14:00:24Z",
+      "side": 1,
+      "message": "and here",
+      "revId": "6fe8c49ed66fface141d3153d965a0c74d3e9806",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
